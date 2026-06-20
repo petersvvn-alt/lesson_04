@@ -39,3 +39,5 @@
 ![alt text](images/image9-1.png)
 10. Расширяю logical volume mysql на весь доступный объем volume group и проверяю что расширился.
 ![alt text](images/image9-2.png)
+10. расширяю ФС внутри логического тома:
+![alt text](images/image10.png)
