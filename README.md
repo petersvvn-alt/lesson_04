@@ -14,9 +14,8 @@
 ``pvcreate /dev/sdc /dev/sdb1 /dev/sdb2``
 - Создал Volume Group командой:
 ``vgcreate vgdata /dev/sdc /dev/sdb1 /dev/sdb2``
-
-
 - Проверил:
+
 ![alt text](images/image4.png)
 ![alt text](images/image4-1.png)
 
